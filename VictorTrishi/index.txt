@@ -7,13 +7,13 @@ This is a Restaurant html template made by codewithsadee
 #---------- TOP BAR ----------#
 
 <ion-icon name="location-outline" aria-hidden="true"></ion-icon>
-Restaurant St, Delicious City, London 9578, UK
+Restaurant St, Yummy City, Lagos, NG
 
 <ion-icon name="time-outline" aria-hidden="true"></ion-icon>
 Daily : 8.00 am to 10.00 pm
 
 <ion-icon name="call-outline" aria-hidden="true"></ion-icon>
-+1 123 456 7890
++2349035465520
 
 <ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
 booking@restaurant.com
@@ -22,7 +22,7 @@ booking@restaurant.com
 
 #---------- HEADER ----------#
 
-alt = Grilli - Home
+alt = VictorTrish - Home
 
 aria-label = close menu
 <ion-icon name="close-outline" aria-hidden="true"></ion-icon>
@@ -35,8 +35,8 @@ Contact
 
 Visit Us
 
-Restaurant St, Delicious City,
-London 9578, UK
+Restaurant St, Yummy City,
+Lagos, NG
 
 Open: 9.30 am - 2.30pm
 
@@ -115,7 +115,7 @@ Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem I
 
 Book Through Call
 
-+80 (400) 123 4567
++2349035465520
 
 Read More
 
@@ -203,8 +203,8 @@ View All Menu
 ”
 I wanted to thank you for inviting me down for that amazing dinner the other night. The food was extraordinary.
 
-alt = Sam Jhonson
-Sam Jhonson
+alt = Sam Derulo
+Sam Derulo
 
 
 
@@ -213,7 +213,7 @@ Sam Jhonson
 Online Reservation
 
 Booking request
-+88-123-123456
++2349035465520
 or fill out the order form
 
 placeholder = Your Name
@@ -341,9 +341,9 @@ Google Map
 
 &copy; 2022 Grilli. All Rights Reserved | Crafted by
 
-https://github.com/codewithsadee
+https://github.com/V-ope
 
-codewithsadee
+V-ope
 
 
 

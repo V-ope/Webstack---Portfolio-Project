@@ -1,4 +1,4 @@
-Grilli - Amazing & Delicious Food
+VictorTrish - Amazing & Delicious Food
 
 This is a Restaurant html template made by codewithsadee
 
@@ -43,7 +43,7 @@ Open: 9.30 am - 2.30pm
 booking@grilli.com
 
 Booking Request
-+88-123-123456
++2349035465520
 
 Find A Table
 
@@ -245,12 +245,12 @@ Contact Us
 
 Booking Request
 
-+88-123-123456
++2349035465520
 
 Location
 
-Restaurant St, Delicious City,
-London 9578, UK
+Restaurant St, Yummy City,
+Lagos, NG
 
 Lunch Time
 
@@ -311,7 +311,7 @@ alt = grilli home
 
 Restaurant St, Delicious City, London 9578, UK
 
-booking@grilli.com
+booking@VictorTrish.com
 
 Booking Request : +88-123-123456
 
@@ -339,7 +339,7 @@ Twitter
 Youtube
 Google Map
 
-&copy; 2022 Grilli. All Rights Reserved | Crafted by
+ 2024 VictorTrish. All Rights Reserved | Crafted by V-ope
 
 https://github.com/V-ope
 
@@ -364,56 +364,9 @@ Our Menu
 Special Offer
 Best Special Menu
 
-alt = Greek Salad
-Greek Salad
-Avocados with crab meat, red onion, crab salad red bell pepper...
-$39.00
-
-alt = Tokusen Wagyu
-Tokusen Wagyu
-Tomatoes, green bell pepper, sliced cucumber onion, olives...
-$45.00
-
-alt = Butternut Pumpkin
-Butternut Pumpkin
-Avocados with crab meat, red onion, crab salad stuffed bell pepper...
-$15.00
-
-alt = Opu Fish
-Opu Fish
-Vegetables, cheeses, ground meats, tomato sauce, seasonings...
-$12.00
-
-alt = Greek Salad
-Greek Salad
-Avocados with crab meat, red onion, crab salad red bell pepper...
-$39.00
-
-alt = Tokusen Wagyu
-Tokusen Wagyu
-Tomatoes, green bell pepper, sliced cucumber onion, olives...
-$45.00
-
-alt = Butternut Pumpkin
-Butternut Pumpkin
-Avocados with crab meat, red onion, crab salad stuffed bell pepper...
-$15.00
-
-alt = Opu Fish
-Opu Fish
-Vegetables, cheeses, ground meats, tomato sauce, seasonings...
-$12.00
-
-
-alt = feature banner
-
-Chef Selection
-Lobster Tortellini
 
 Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since.
 
-$40.00
-$20.00
 
 
 
@@ -425,11 +378,11 @@ About Us
 Who We Are
 
 A modern restaurant with a menu that will make your mouth water. Servicing delicious food 
-since 45 years.
-Enjoy our seasonal menu and experience the beauty of naturalness
-Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived.
+since 000 years.
+Enjoy our seasonal menu and experience the beauty of nature
+Lorem Ipsum is simply dummy text of typesetting industry lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived.
 
-Andrew Joe - Founder
+John doe - Founder
 
 Lunch Time
 Monday to Sunday
@@ -440,7 +393,7 @@ Monday to Sunday
 5.30 pm - 11.30 pm
 
 Contact Us
-Restaurant St, Delicious City, London 9578, UK
+Restaurant St, Yummy City, Lagos, NG
 
-+88-123-123456
-reservation@restro.com
++2349035464420
+reservation@VictorTrish.com
